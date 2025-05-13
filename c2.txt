@@ -1,1 +1,2 @@
-This file is added at remote location
+
+This file is added in both branches, resolved manually
